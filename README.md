@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Neer Khandor</h1>
 <h3 align="center">Passionate Developer on a Quest for Elegant Solutions 🌐</h3>
@@ -11,7 +10,8 @@
 
 - 📫 How to reach me **neerkhandor2660@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19c_FndFr-d2eBMslDjwfmFvOOnk6y97Z/view?usp=drive_link](https://drive.google.com/file/d/19c_FndFr-d2eBMslDjwfmFvOOnk6y97Z/view?usp=drive_link)
+- 📄 Know about my experiences
+- [https://drive.google.com/file/d/1feK1UwXUR-pQSWTLrA1KlGwOkaxGS8qz/view?usp=drivesdk](https://drive.google.com/file/d/1feK1UwXUR-pQSWTLrA1KlGwOkaxGS8qz/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
